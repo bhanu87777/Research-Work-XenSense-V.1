@@ -22,17 +22,6 @@
 
 <hr>
 
-<h2>✨ Key Highlights</h2>
-<ul>
-  <li>🧪 <strong>Comprehensive Survey</strong> – Review of state-of-the-art models in segmentation & detection</li>
-  <li>📊 <strong>Dataset Collection</strong> – Curated and refined datasets for real-world scenarios</li>
-  <li>⚙️ <strong>Enhanced Models</strong> – Improved accuracy and robustness of existing frameworks</li>
-  <li>🚘 <strong>Autonomous Applications</strong> – Designed with self-driving cars in mind</li>
-  <li>🌍 <strong>Global Recognition</strong> – Accepted for presentation at an international conference</li>
-</ul>
-
-<hr>
-
 <h2>📌 Current Status</h2>
 <p>
   The <strong>codebase is still under active development</strong>.  
