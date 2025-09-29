@@ -9,12 +9,9 @@
 
 <hr>
 
-<h2>📄 Certificate</h2>
-<p>
-  You can view or download the project certificate here: 
-  <a href="https://github.com/your-username/your-repo-name/blob/main/Certificate.pdf" target="_blank">
-    Certificate.pdf
-  </a>
+<h2>🖼Certificate</h2>
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/raw/main/your-image.png" alt="Project Image" width="600">
 </p>
 
 
