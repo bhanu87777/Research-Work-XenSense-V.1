@@ -11,7 +11,7 @@
 
 <h2>🖼Certificate</h2>
 <p align="center">
-  <img src="https://github.com/bhanu87777/Research-Work-XenSense-V.1/img.png" alt="Project Image" width="600">
+  <img src="https://github.com/bhanu87777/Research-Work-XenSense-V.1/raw/main/img.png" alt="Project Image" width="600">
 </p>
 
 
