@@ -11,7 +11,7 @@
 
 <h2>🖼Certificate</h2>
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/your-image.png" alt="Project Image" width="600">
+  <img src="https://github.com/your-username/your-repo-name/raw/main/your-img.png" alt="Project Image" width="600">
 </p>
 
 
