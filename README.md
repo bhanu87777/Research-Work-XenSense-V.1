@@ -7,6 +7,17 @@
 
 <hr>
 
+<hr>
+
+<h2>📄 Certificate</h2>
+<p>
+  You can view or download the project certificate here: 
+  <a href="https://github.com/your-username/your-repo-name/blob/main/Certificate.pdf" target="_blank">
+    Certificate.pdf
+  </a>
+</p>
+
+
 <h2>📖 About the Project</h2>
 <p>
   <strong>XenSense-V.1</strong> is part of our major project, focused on advancing research in autonomous vehicles. 
