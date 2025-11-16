@@ -26,28 +26,6 @@ _(Sample run of XenSense in action — real-time detection, tracking, and hazard
 
 ---
 
-## 📊 Results
-
-- **mAP@0.5:** `0.54` on custom pothole dataset
-- **Throughput:** ~30 FPS on 1080p video (GPU-accelerated)
-- **Robustness:** Handles smoke/fog and other low-visibility scenarios
-
----
-
-## 🛠 Tech Stack
-
-- **Python** – Core language
-- **PyTorch** – Deep learning framework
-- **YOLO11 (Ultralytics)** – Object detection & segmentation
-- **DeepSort** – Multi-object tracking
-- **MiDaS** – Depth estimation (for speed & distance)
-- **OpenCV** – Video processing & visualization
-- **Custom Smoke/FogNet Filter** – Adverse weather handling
-- **CUDA / ROCm** – GPU acceleration
-- **NumPy, Pandas** – Data handling and metrics
-
----
-
 ## 🚀 Quick Start
 
 ```bash
