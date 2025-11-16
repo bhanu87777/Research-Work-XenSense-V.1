@@ -19,13 +19,6 @@
 
 ---
 
-## ⚡ Demo
-
-![Demo](results/demo.gif)  
-_(Sample run of XenSense in action — real-time detection, tracking, and hazard identification)_
-
----
-
 ## 🚀 Quick Start
 
 ```bash
