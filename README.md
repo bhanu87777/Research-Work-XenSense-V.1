@@ -1,7 +1,5 @@
 # XenSense 🚦 – Intelligent Video Analytics
 
-**XenSense** is a real-time video analytics system for **traffic monitoring and hazard detection for autonomous cars**, combining **state-of-the-art deep learning models** with efficient video processing pipelines.
-
 <h2>🖼Certificate</h2>
 <p align="center">
   <img src="https://github.com/bhanu87777/Research-Work-XenSense-V.1/raw/main/img.png" alt="Project Image" width="600">
